@@ -4,7 +4,7 @@
 ### <div align="center">I'm Travis, a full-time full-stack developer and full-time mechanical engineer working to bring the world of AEC and the world of Tech together.</div>  
   
 ### <div align="center">🏗️🏦🏨💻</div>  
-- 💽 I’m currently working on a bit of natural language processing and Revit Automation  
+- 💽 I’m currently working on a bit of Revit Automation  
   
 
 - 🏫 I’m currently learning React/Redux/Material-UI  
