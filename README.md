@@ -1,12 +1,5 @@
 ### <div align="center">🏗️🏦🏨💻</div>  
-  
 
-### <div align="center">I'm Travis, a full-time full-stack developer and full-time mechanical engineer working to bring the world of AEC and the world of Tech together.</div>  
-  
-### <div align="center">🏗️🏦🏨💻</div>  
-
-currently working on a bit of Revit Automation  
-  
 
 <br/>  
 
